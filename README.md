@@ -3,7 +3,7 @@
 Analysis of crimes in San Francisco & Seattle in Tableau.
 
 Both cities has a very high level of Theft, bullgary, assaults, & Vehicle Thefts. 
-Geography of crimes circulate around cender, and have tendency to the poor part of the city (higher crimes rates). 
+Geography of crimes circulate around center, and have tendency (San francisco Norther, South& Central Part), Seattle Eastern part) to the poor part of the city (higher crimes rates). 
 Most of them occurs in Working hours, assaults at late evening before weekend, 
 
 Top crimes in San Francisco:   1)Larceny/Theft   2) Other offenses 3) Assault 4) Vehichle Thefts
